@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TICS - Topics on Internet Censorship and Surveillance</title>
+    <link>/</link>
+    <description>Recent content on TICS - Topics on Internet Censorship and Surveillance</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Previous Editions</title>
+      <link>/previous/</link>
+      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/previous/</guid>
+      <description>TICS 2019 Chairs and Coordinators
+ Vasilis Ververis, PhD Candidate, Humboldt University Berlin, Germany ververis@kth.se Marios Isaakidis, PhD Canditate, University College London, UK m.isaakidis@cs.ucl.ac.uk Gunnar Wolf, M. Eng., Universidad Nacional Autónoma de México, Mexico gwolf@gwolf.org  Sessions CFP: https://www.iaria.org/conferences2019/filesICN19/TICS.pdf
+Conference Program: https://www.iaria.org/conferences2019/ProgramICN19.html
+ CENO and Ouinet: Ignore Censorship with P2P-Backed Web Browsing [presentation]
+Ivan Vilata-i-Balaguer, Peter Jankuliak, Dmitriy Volkov
+In Proc. of: International Conference on Networking and Services, 2019, ICN</description>
+    </item>
+    
+    <item>
+      <title>Call for Papers - 2nd TICS on AI-Assisted Information Controls</title>
+      <link>/cfp/</link>
+      <pubDate>Wed, 08 May 2019 11:11:29 +0300</pubDate>
+      
+      <guid>/cfp/</guid>
+      <description>The 2nd TICS will focus on AI-assisted information controls
+Collocated with the 18th IEEE/WIC/ACM International Conference on Web Intelligence (October 14, 2019 | Thessaloniki, Greece)  https://webintelligence2019.com
+Abstract The ever-increasing demand for online content moderation and user profiling sees the adaptation of web intelligence concepts that were developed in good faith, into a censorship and surveillance apparatus owned by corporations and national agencies. Consequently, users are bound to an Orwellian Internet where mainstream platforms &amp;ndash; such as search engines, social media, and content providers &amp;ndash; place the blame for filter bubbles and extensive user behavioral analysis on artificial intelligence.</description>
+    </item>
+    
+    <item>
+      <title>About TICS</title>
+      <link>/about/</link>
+      <pubDate>Fri, 29 Mar 2019 22:11:29 +0100</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Over the past years there has been a greater demand for online censorship and surveillance, as an understandable reaction against hate speech, copyright violations, and other cases related to citizen compliance with civil laws and regulations by national authorities. Unfortunately, this is often accompanied by a tendency of extensively censoring online content and massively spying on citizens actions. Numerous whistleblower revelations, leaks from classified documents, and a vast amount of information released by activists, researchers and journalists, reveal evidence of government-sponsored infrastructure that either goes beyond the requirements and scope of the law, or operates without any effective regulations in place.</description>
+    </item>
+    
+  </channel>
+</rss>
